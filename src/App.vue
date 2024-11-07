@@ -47,7 +47,7 @@ interface MessageData {
 //VARIABLES----------------------------
 let botId: string = '491392060716085';
 let phoneNbr: string = '52871266 9231';
-let bearerToken: string = 'EAAcPz29isEIBO9ylip0jw5dk1k6XXdQ3itw1AzcQ5mkKRaaZB0bZBRU6nUBOYmHOW1nZAmlT7RU2FEAdmitD6PA0gffIOZCrZAfXf8onHhDWLdF7hJOpI01E8XsOo8tctc3HuOXvC6IAwqmcZCfLQZBElR9yjZC7R4QX9dAxsf0WdjtgpjRmvCmnYMknEgIxVdtgW6aoSFidZAkLHfYoBNJkwHSKZC';
+let bearerToken: string = 'EAAcPz29isEIBOxwDL2ZCogwlejkVi3nlNdJQdSnw4hvxHhUqY0kVAAtJTZC0VlmEUUUHpEyoZAjVTqzdjFkADiY6PUP3I0F7SlZA6c1CbHXv45sE1UteqRJHIagEkIqnBnAoa2ZAZC4ZCZAVCD4dzH4zNNUjn7sm3kIIf4qjNEXjpyUYHj2aRv34kW46d7h7oHmHOHHfKZCtZAbg1Ne8pVMWRucTlP1pZBfJYBs6gXgNBsZD';
 let url: string = `https://graph.facebook.com/v15.0/${botId}/`
 let textOrderService: string = '10101088';
 let textOperatorName: string = 'ABDO SABAG II confirma si te llego';
